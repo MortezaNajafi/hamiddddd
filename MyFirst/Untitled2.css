@@ -1,0 +1,30 @@
+html {
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    text-align: center;
+    background-color: gray;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    background-image: url(bc.jpg);
+    background-repeat: no-repeat;
+    background-blend-mode: darken;
+    background-attachment: fixed;
+}
+
+#title {
+    position: absolute;
+    padding: 20px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    font-size: 80px;
+    margin-left: 10%;
+    left: auto;
+    right: auto;
+    top: auto;
+    color: white;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+
